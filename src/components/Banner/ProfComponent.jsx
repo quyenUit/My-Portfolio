@@ -3,7 +3,7 @@ import styled from "styled-components";
 import { AiFillGithub } from "react-icons/ai";
 import { BsFacebook } from "react-icons/bs";
 import { Slide } from "react-awesome-reveal";
-import avatar from "../../img/me.png"
+import avatar from "../../img/DSC_6338.jpg"
 
 const ProfComponent = () => {
   return (
@@ -31,7 +31,7 @@ const ProfComponent = () => {
             to design and develop quality web applications and contribute to the success of the company in the field 
             of Information Technology.
           </p>
-          <button>About me</button>
+          <a href="https://www.topcv.vn/xem-cv/DlwDUFdYAlJUA1VWA1cPAwpSVQYDBQICVwEFVQ1fbf" target="_blank" rel="noopener noreferrer"><button style={{fontSize: 24, fontWeight: 600}}>My CV</button></a>
           <Social>
             <p>Check out my</p>
             <div className="social-icons">
@@ -110,7 +110,7 @@ const Texts = styled.div`
     font-weight: 500;
     filter: drop-shadow(0px 10px 10px #FF6701);
     :hover {
-      filter: drop-shadow(0px 10px 10px #01be9570);
+      filter: drop-shadow(0px 10px 10px #ffa201);
     }
   }
 `;
@@ -154,7 +154,7 @@ const Social = styled.div`
 const Profile = styled.div`
   img {
     width: 25rem;
-    filter: drop-shadow(0px 10px 10px #01be9570);
+    filter: drop-shadow(0px 10px 10px #f5c37d);
     transition: transform 400ms ease-in-out;
     @media (max-width: 790px) {
       width: 20rem;
