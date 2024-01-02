@@ -14,7 +14,7 @@ const ProfComponent = () => {
             Hello <span className="green">I'am</span>
           </h4>
           <h1 className="green">Nguyen Huu Quyen</h1>
-          <h3>FRONT-END DEVELOPER INTERN</h3>
+          <h3>REACT DEVELOPER</h3>
           <p>
             I am currently a 4th year student majoring in Information Systems,
             University of Information Technology, Vietnam National University, Ho Chi Minh City.
@@ -23,15 +23,12 @@ const ProfComponent = () => {
             The criterion of my work is Learn-Grow-Deliver.
             <br />
             <br />
-            My short-term vision is to complete the internship and earn enough credits and graduate on time.
-            <br />
-            <br />
-            My long-term vision is to become a professional Front-end Developer in a work environment suitable for growth, 
-            where I can apply the knowledge and skills gained from the school's training program and the practical project
-            to design and develop quality web applications and contribute to the success of the company in the field 
-            of Information Technology.
+            My goal is to become a professional Developer in a suitable working environment for development,
+            where I can apply the knowledge and skills gained from the school's training program and 
+            real projects to design projects. Design and develop quality web applications and
+            contribute to the company's successful development in the field of Information Technology.
           </p>
-          <a href="https://www.topcv.vn/xem-cv/DlwDUFdYAlJUA1VWA1cPAwpSVQYDBQICVwEFVQ1fbf" target="_blank" rel="noopener noreferrer"><button style={{fontSize: 24, fontWeight: 600}}>My CV</button></a>
+          <a href="https://www.topcv.vn/xem-cv/DA0ABApTAwQCVg0CBlEGVVJWBF0BUwtSVQdXCQd4ac" target="_blank" rel="noopener noreferrer"><button style={{fontSize: 24, fontWeight: 600}}>My CV</button></a>
           <Social>
             <p>Check out my</p>
             <div className="social-icons">
